@@ -1,6 +1,7 @@
-# Thread_Pool
+# Thread Pool
 
-ThreadPool is a specific implementation of an Executor that maintains a pool of worker threads. It allows for the execution of multiple threads of code concurrently by maintaining a pool of worker threads. Thread pool reuses existing threads instead of creating new threads every time a task needs to be executed, which can improve performance and reduce resource consumption.
+ThreadPool is a specific implementation of an Executor that maintains a pool of worker threads. It allows for the execution of multiple threads of code concurrently by maintaining a pool of worker threads.
+Thread pool reuses existing threads instead of creating new threads every time a task needs to be executed, which can improve performance and reduce resource consumption.
 
 
 ## Installation
